@@ -1,0 +1,40 @@
+#p1{
+    font-size: 50px;
+    color: black;
+   text-align: center;
+}
+
+#p2{
+    font-size: 30px;
+    color: black;
+    padding-left: 10%;
+    padding-bottom: 5%;
+}  
+#p3{
+    font-size: 30px;
+    color: black;
+    padding-left: 10%;
+    padding-bottom: 5%;
+}  
+#p4{
+    font-size: 30px;
+    color: black;
+    padding-left: 10%;
+    padding-bottom: 5%;
+}  
+
+.contenedor{
+    width: 350px;
+    margin:0 auto;
+    background-color: grey;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+}
+#foto{
+    position: relative;
+    left: 45px;;
+    bottom: 40px;
+    }
+
+   
